@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=subject\ from\ to\ messageText
+comment0.target=Message(Subject,\ User,\ User,\ java.lang.String)
+comment1.params=
+comment1.target=void\ displayMessage()
+comment2.params=
+comment2.target=void\ displayMessageContent()
+numComments=3

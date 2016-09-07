@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TestSpacebook()
+comment1.params=
+comment1.target=void\ befriend()
+comment2.params=
+comment2.target=void\ displayMessages()
+comment3.params=
+comment3.target=void\ addGroups()
+comment4.params=
+comment4.target=void\ sendMessages()
+comment5.params=
+comment5.target=void\ displayFriends()
+comment6.params=
+comment6.target=void\ testAll()
+numComments=7

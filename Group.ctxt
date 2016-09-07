@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=groupName
+comment0.target=Group(java.lang.String)
+comment0.text=\r\n\ Create\ a\ new\ group\r\n\ @param\ groupName\r\n
+comment1.params=user
+comment1.target=void\ addGroupMember(User)
+comment1.text=\r\n\ Add\ a\ new\ user\ to\ group\r\n\ @param\ user\r\n
+comment2.params=message
+comment2.target=void\ broadcastMessage(Message)
+comment2.text=\r\n\ Send\ a\ message\ to\ the\ inbox\ of\ each\ group\ member\r\n\ \r\n\ @param\ message\r\n
+comment3.params=
+comment3.target=java.lang.String\ groupList()
+comment3.text=\r\n\ @return\ all\ the\ group\ names\ in\ a\ single\ string\r\n\ Use\ the\ \\n\ between\ each\ name\ to\ ensure\ printed\ on\ separate\ lines\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

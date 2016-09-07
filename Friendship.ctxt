@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=sourceUser\ targetUser
+comment0.target=Friendship(User,\ User)
+numComments=1

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TestMessaging()
+comment1.params=
+comment1.target=void\ sortArrayMessages()
+comment2.params=
+comment2.target=void\ sortArrayListMessages()
+comment3.params=
+comment3.target=void\ displayMessageList()
+comment4.params=subject
+comment4.target=void\ displayMessageList(Subject)
+comment5.params=
+comment5.target=void\ testAll()
+numComments=6
